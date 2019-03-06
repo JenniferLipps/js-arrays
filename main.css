@@ -5,3 +5,20 @@ body {
 .dinosaur {
     border: 2px solid bisque;
 }
+
+.assignCard {
+    border: 3px solid tomato;
+    background-color: bisque;
+    color: olive;
+    text-align: center;
+    margin: 2px;
+    padding: 15px;
+    width: 20%
+}
+
+.assignmentTitle {
+    background-color: lightgray;
+    border-bottom: 2px solid darkgray;
+    margin: 5px;
+    padding: 10px;
+}
